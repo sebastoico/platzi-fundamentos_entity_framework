@@ -1,6 +1,6 @@
 namespace projectEF.Models;
 
-public class Task
+public class Tasks
 {
   public Guid TaskId {get;set;}
 
