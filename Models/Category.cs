@@ -13,5 +13,5 @@ public class Category
 
   public string Description {get;set;}
 
-  public virtual ICollection<Task> Tasks {get;set;}
+  public virtual ICollection<Tasks> Tasks {get;set;}
 }
